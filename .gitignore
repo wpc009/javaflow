@@ -1,0 +1,53 @@
+
+# /
+/.*
+/.project
+/.classpath
+/.buildpath
+/.settings
+*.iml
+/InnoXYZ
+/build
+/*classes
+/target
+/applicationContext-hibernate.xml
+/reports
+/war
+/build2.xml
+/tools
+/scripts
+/jsp_src
+/rebel.xml
+/src/rebel.xml
+/WebContent/WEB-INF/applicationContext-mongo.xml
+/WebContent/WEB-INF/applicationContext-hibernate.xml
+# /WebContent/
+/WebContent/min_js
+
+# /WebContent/WEB-INF/
+/WebContent/WEB-INF/classes
+
+# /WebContent/images/
+/WebContent/images/*.psd
+
+# /WebContent/images/activity/
+/WebContent/images/activity/*.psd
+
+# /WebContent/images/ccenter/
+/WebContent/images/ccenter/*.psd
+
+# /WebContent/images/error/
+/WebContent/images/error/*.psd
+
+# /WebContent/images/icons/
+/WebContent/images/icons/*.psd
+
+# /WebContent/images/index/
+/WebContent/images/index/*.psd
+
+# /WebContent/images/mime/
+/WebContent/images/mime/*.psd
+
+# /WebContent/images/sponsor/
+/WebContent/images/sponsor/*.psd
+WebContent/thing/lproject/exhibition/ex.jsp
